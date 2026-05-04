@@ -1,5 +1,7 @@
 # backend-to-apifox
 
+[![skills.sh](https://skills.sh/b/cloud-prg/backend-to-apifox)](https://skills.sh/cloud-prg/backend-to-apifox)
+
 从 Express 风格后端**静态扫描** `router.get/post/...` 与 `conn.query(..., [parms.x])`，生成 **OpenAPI 3.0 JSON**，供 [Apifox](https://apifox.com) 等工具 **导入 → OpenAPI**。
 
 ## 安装（skills 生态）
